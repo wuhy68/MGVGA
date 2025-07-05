@@ -1,0 +1,15 @@
+{
+  "architectures": [
+    "AIGMAEModel"
+  ],
+  "cross_hidden_size": 3584,
+  "cross_num_heads": 8,
+  "freeze": false,
+  "hidden_size": 64,
+  "model_type": "AIGMAE",
+  "num_classes": 4,
+  "num_cross_decoder_layers": 2,
+  "num_encoder_layers": 7,
+  "torch_dtype": "float32",
+  "transformers_version": "4.44.2"
+}
